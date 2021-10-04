@@ -3,4 +3,4 @@ project(ProjetGateau C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(ProjetGateau main.c)
+add_executable(ProjetGateau main.c header.h)
