@@ -40,3 +40,11 @@ typedef struct File_Degustation{
     //TODO
 }File_Degustation;
 
+
+Element_str* l_gouts;
+
+File_Commandes* f_commandes;
+
+File_Degustation* f_degustation;
+
+
